@@ -11,3 +11,8 @@ A simple proof of concept that allows a non-programmer to write a program in nat
 5. Either load up the Jupyter Notebook and run through it or run the python file directly:
     - cd python_files
     - python main.py
+
+
+### To-Do
+
+Create a Flask application with an HTML form to allow users to input their own natural language code and have it converted to SQL code.
