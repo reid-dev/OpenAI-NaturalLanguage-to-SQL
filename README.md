@@ -1,4 +1,4 @@
-# OpenAI-NaturalLanguage-to-Python
+# OpenAI-NaturalLanguage-to-SQL
 
 A simple proof of concept that allows a non-programmer to write a program in natural language and have it converted to SQL Code.
 ## How to use
